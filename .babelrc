@@ -1,0 +1,13 @@
+{
+  "passPerPreset": true,
+  "plugins": [
+    "transform-decorators-legacy"
+  ],
+  "presets": [
+    "env",
+    "react",
+    "react-app",
+    "es2015",
+    "stage-0"
+  ]
+}
